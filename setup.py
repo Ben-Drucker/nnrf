@@ -23,7 +23,7 @@ setup(
     install_requires=[
 		'numpy',
 		'tqdm',
-		'sklearn',
+		'scikit-learn',
     ],
 	python_requires='>=3.4, <4',
 	classifiers=[
